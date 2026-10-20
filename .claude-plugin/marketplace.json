@@ -1,1 +1,14 @@
-
+{
+  "name": "my-omniroute-marketplace",
+  "owner": {
+    "name": "My Plugins"
+  },
+  "plugins": [
+    {
+      "name": "omniroute-helper",
+      "source": "./plugins/omniroute-helper",
+      "description": "Helper tools and guidance for working with OmniRoute",
+      "version": "1.0.0"
+    }
+  ]
+}
