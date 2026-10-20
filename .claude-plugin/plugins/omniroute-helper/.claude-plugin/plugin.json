@@ -1,1 +1,8 @@
-
+{
+  "name": "omniroute-helper",
+  "version": "1.0.0",
+  "description": "Connect Claude Code workflows to OmniRoute and help manage model routing.",
+  "author": {
+    "name": "Your Name"
+  }
+}
